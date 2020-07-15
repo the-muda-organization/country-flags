@@ -1,0 +1,4 @@
+
+# Make URLs Case Insensitive
+CheckSpelling on
+CheckCaseOnly on
