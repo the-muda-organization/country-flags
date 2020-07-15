@@ -1,0 +1,22 @@
+{
+    "name": "the-muda-organization/country-flags",
+    "description": "Country flags in SVG, PNG and CSS gradients. Dependent territories included!",
+    "keywords": [
+        "flags",
+        "country-flags",
+        "png",
+        "svg",
+        "svg-flags",
+        "css",
+        "css-gradients",
+        "muda"
+    ],
+    "readme": "/README.md",
+    "authors": [
+        {
+            "name": "Jakub Muda",
+            "email": "info@muda.pl"
+        }
+    ],
+    "license": "MIT"
+}
