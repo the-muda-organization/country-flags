@@ -2,14 +2,11 @@
     "name": "the-muda-organization/country-flags",
     "description": "Country flags in SVG, PNG and CSS gradients. Dependent territories included!",
     "keywords": [
-        "flags",
         "country-flags",
+        "css",
         "png",
         "svg",
-        "svg-flags",
-        "css",
-        "css-gradients",
-        "muda"
+        "webp"
     ],
     "readme": "/README.md",
     "authors": [
